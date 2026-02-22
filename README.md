@@ -135,3 +135,8 @@ Implemented and tuned PID controllers using MATLAB & Simulink.
 <p align="center">
 ⚙️ Engineering Precision. 📊 Data-Driven Decisions. 🚀 Continuous Growth.
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vihaan-5/Vihaan-5/output/github-contribution-grid-snake-dark.svg" />
+</p>
