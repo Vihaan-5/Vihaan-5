@@ -51,12 +51,12 @@ I focus on combining engineering fundamentals with data-driven approaches to sol
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihaan-5&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihaan-5&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihaan-5&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -64,15 +64,7 @@ I focus on combining engineering fundamentals with data-driven approaches to sol
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vihaan-5/Vihaan-5/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihaan-5&theme=react-dark"/>
 </p>
 
 
